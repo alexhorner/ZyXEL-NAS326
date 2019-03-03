@@ -13,7 +13,7 @@ So I have had many sources of information during the process of working on this 
 
  - http://nas-central.org/ - Provided most information on existing hacks and NAS details
    - http://zyxel.nas-central.org/wiki/Category:NAS326 - Technical details of the NAS326 including the UBoot map
-   - http://zyxel.nas-central.org/wiki/3rd_party_zypkgs - Installation guide used to build ny guides for the installation of theird party packages on to the NAS326
+   - http://zyxel.nas-central.org/wiki/3rd_party_zypkgs - Installation guide used to build my guides for the installation of third party packages on to the NAS326
    - http://zyxel.nas-central.org/wiki/FFP_as_zypkg - FFP which we will use for the installation of packages
  - http://www.craigamos.rocks/building-the-zyxel-nas326/ - Directory structure and Apache config location
  - https://www.smallnetbuilder.com/nas/nas-reviews/33001-zyxel-nas326-2-bay-personal-cloud-storage-reviewed?limitstart=0 - Internal board picture, technical specs
