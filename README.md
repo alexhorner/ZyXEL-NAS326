@@ -1,5 +1,3 @@
-# CHECK
-
 # ZyXEL NAS326 Hacking and Modernisation
 **Disclaimer**: I am not responsible for any use or interaction with this guide. This guide is provided to be educational and additionally provide a useful end result which is a NAS326 by ZyXEL becoming more capable than ZyXEL currently supports it for.
 
@@ -17,8 +15,8 @@ So I have had many sources of information during the process of working on this 
    - http://zyxel.nas-central.org/wiki/Category:NAS326 - Technical details of the NAS326 including the UBoot map
    - http://zyxel.nas-central.org/wiki/3rd_party_zypkgs - Installation guide used to build ny guides for the installation of theird party packages on to the NAS326
    - http://zyxel.nas-central.org/wiki/FFP_as_zypkg - FFP which we will use for the installation of packages
- - INSERT THE OLD RED AND CROSS THINGY THING HERE
- - INTERNAL SHOTS PAGE WITH PICS SUGGEST UART
+ - http://www.craigamos.rocks/building-the-zyxel-nas326/ - Directory structure and Apache config location
+ - https://www.smallnetbuilder.com/nas/nas-reviews/33001-zyxel-nas326-2-bay-personal-cloud-storage-reviewed?limitstart=0 - Internal board picture, technical specs
  - https://www.sammyk.me/compiling-php-from-source-writing-tests-for-php-source - PHP compilation from source guide
 
 ---
