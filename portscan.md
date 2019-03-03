@@ -1,2 +1,2 @@
 # Port Scan results on the NAS326
-![Open ports](./portscan.png?raw=true)
+![Open ports](./img/portscan.png?raw=true)

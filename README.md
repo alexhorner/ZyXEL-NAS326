@@ -19,6 +19,8 @@ So I have had many sources of information during the process of working on this 
  - https://www.smallnetbuilder.com/nas/nas-reviews/33001-zyxel-nas326-2-bay-personal-cloud-storage-reviewed?limitstart=0 - Internal board picture, technical specs
  - https://www.sammyk.me/compiling-php-from-source-writing-tests-for-php-source - PHP compilation from source guide
 
+ - https://www.reddit.com/r/archlinux/comments/av2evg/nas_running_arch_linux_arm_zyxel_nas326/ - The original place I started this
+
 ---
 ## Goals
 All of the guides assume you arte using ZyXEL's 5.21 firmware. In this firmware as few things are broken but the guides whould explain how to fix them.
@@ -51,6 +53,11 @@ For web resources such as documentation and guides that already exist and I link
  - metarepo.md - MetaRepository, the App Center third-party repository tweak
  - ffp.md - FFP, the third-party software manager and insaller
  - php7.md - PHP7, the latest PHP as of writing used for modern web apps on the NAS' Apache server
+
+---
+## Additional Resources
+ - img - Folder holding all images used in the MD files
+ - portscan.md - The result of a port scan run against the NAS326
 
 ---
 ## Contact me!
