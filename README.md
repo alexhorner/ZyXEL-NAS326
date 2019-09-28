@@ -23,7 +23,7 @@ So I have had many sources of information during the process of working on this 
 
 ---
 ## Goals
-All of the guides assume you arte using ZyXEL's 5.21 firmware. In this firmware as few things are broken but the guides whould explain how to fix them.
+All of the guides assume you are using ZyXEL's 5.21 firmware. In this firmware a few things are broken but the guides will explain how to fix them.
 
 Here are the goals I intend to achieve. I will mark them as completed as I make my way through them:
 
@@ -44,7 +44,9 @@ Here are the goals I intend to achieve. I will mark them as completed as I make 
 
 ---
 ## If all the external sources disappear
-I intend to keep a copy of all of the resources required to carry out the goals. I will write all of my guided information as if the original resources *DO* exist, and if they suddenly disappear you can either try to grab them on https://archive.org and please open an issue on this repository so I can rewrite parts of the guide so that they work with sources I can provide.
+~~I intend to keep a copy of all of the resources required to carry out the goals. I will write all of my guided information as if the original resources *DO* exist, and if they suddenly disappear you can either try to grab them on https://archive.org and please open an issue on this repository so I can rewrite parts of the guide so that they work with sources I can provide.~~
+
+New repo: http://zyxel.diskstation.eu/Users/Mijzelf/zypkg-repo/
 
 For web resources such as documentation and guides that already exist and I link to, I will try to make sure they are available on https://archive.org by manually starting a page crawl and save.
 
