@@ -8,6 +8,12 @@ So I recently purchased a NAS326 from Amazon for around £100. This is a 2 bay N
 **Noob Alert**: I am a noob. Although A lot of what I do will be correct and work fine, it may not be the best and most efficient way. If you want to correct me or provide a better way of doing something, please kindly open an issue. I have absolutely no problem with constructive criticism!
 
 ---
+## The Alternative
+There is a way to put Debian on the ZyXEL NAS326. I have not yet had time to test this but I have seen a lot of activity on this forum and have also posted a little myself.
+
+https://forum.doozan.com/read.php?2,27108
+
+---
 ## Sources of Information
 So I have had many sources of information during the process of working on this NAS. I will provide links (and sometimes direct page links) to as many sources of information as I can think of below:
 
