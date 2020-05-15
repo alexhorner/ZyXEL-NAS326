@@ -11,6 +11,8 @@ So I recently purchased a NAS326 from Amazon for around £100. This is a 2 bay N
 ## The Alternative
 There is a way to put Debian on the ZyXEL NAS326. I have not yet had time to test this but I have seen a lot of activity on this forum and have also posted a little myself.
 
+Whenever people contact me about this I always back up the latest pages of this forum to the Wayback Machine
+
 https://forum.doozan.com/read.php?2,27108
 
 ---
