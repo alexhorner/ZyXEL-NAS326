@@ -19,10 +19,14 @@ https://forum.doozan.com/read.php?2,27108
 ## Sources of Information
 So I have had many sources of information during the process of working on this NAS. I will provide links (and sometimes direct page links) to as many sources of information as I can think of below:
 
- - http://nas-central.org/ - Provided most information on existing hacks and NAS details
-   - http://zyxel.nas-central.org/wiki/Category:NAS326 - Technical details of the NAS326 including the UBoot map
-   - http://zyxel.nas-central.org/wiki/3rd_party_zypkgs - Installation guide used to build my guides for the installation of third party packages on to the NAS326
-   - http://zyxel.nas-central.org/wiki/FFP_as_zypkg - FFP which we will use for the installation of packages
+ - ~~http://nas-central.org/ - Provided most information on existing hacks and NAS details~~
+   - ~~http://zyxel.nas-central.org/wiki/Category:NAS326 - Technical details of the NAS326 including the UBoot map~~
+   - ~~http://zyxel.nas-central.org/wiki/3rd_party_zypkgs - Installation guide used to build my guides for the installation of third party packages on to the NAS326~~
+   - ~~http://zyxel.nas-central.org/wiki/FFP_as_zypkg - FFP which we will use for the installation of packages~~
+ - nas-central.org is dead - here are the wayback links - Provided most information on existing hacks and NAS details
+   - https://web.archive.org/web/20190415163227/http://zyxel.nas-central.org/wiki/Category:NAS326 - Technical details of the NAS326 including the UBoot map
+   - https://web.archive.org/web/20190426053311/http://zyxel.nas-central.org/wiki/3rd_party_zypkgs - Installation guide used to build my guides for the installation of third party packages on to the NAS326
+   - https://web.archive.org/web/20190409100747/http://zyxel.nas-central.org/wiki/FFP_as_zypkg - FFP which we will use for the installation of packages
  - http://www.craigamos.rocks/building-the-zyxel-nas326/ - Directory structure and Apache config location
  - https://www.smallnetbuilder.com/nas/nas-reviews/33001-zyxel-nas326-2-bay-personal-cloud-storage-reviewed?limitstart=0 - Internal board picture, technical specs
  - https://www.sammyk.me/compiling-php-from-source-writing-tests-for-php-source - PHP compilation from source guide
