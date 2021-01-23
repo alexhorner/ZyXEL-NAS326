@@ -35,7 +35,7 @@ So I have had many sources of information during the process of working on this 
 
 ---
 ## Goals
-All of the guides assume you are using ZyXEL's 5.21 firmware. In this firmware a few things are broken but the guides will explain how to fix them.
+All of the guides assume you are using ZyXEL's V5.21(AAZF.3) firmware. In this firmware a few things are broken but the guides will explain how to fix them. If you need a copy of this firmware, please email me with the email at the bottom, as it is no longer available on the ZyXEL website. This repository has not yet been validated for firmware versions newer than V5.21(AAZF.3). The latest available firmware version at the time of writing this disclaimer is V5.21(AAZF.9) which is untested.
 
 Here are the goals I intend to achieve. I will mark them as completed as I make my way through them:
 
