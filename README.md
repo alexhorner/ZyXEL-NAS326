@@ -65,7 +65,7 @@ For web resources such as documentation and guides that already exist and I link
 ---
 ## Guides (ordered)
  - metarepo.md - MetaRepository, the App Center third-party repository tweak
- - ffp.md - FFP, the third-party software manager and insaller
+ - ffp.md - FFP, the third-party software manager and installer
  - php7.md - PHP7, the latest PHP as of writing used for modern web apps on the NAS' Apache server
 
 ---
@@ -77,4 +77,4 @@ For web resources such as documentation and guides that already exist and I link
 ## Contact me!
 If there is an issue with this repository in ANY way, such as a broken link, broken instruction in the guide, missing resource or ANYTHING else, please open an issue on the repository.
 
-If you are interested in helping, please contact me via email at ahorner@programmer.net preferrably with some information on what you are capable of doing and i'll see what I can give you as something I cannot do. Of course I will give credit where credit is due!
+If you are interested in helping, please contact me via email at ahorner@programmer.net preferrably with some information on what you are capable of doing and I'll see what I can give you as something I cannot do. Of course I will give credit where credit is due!
