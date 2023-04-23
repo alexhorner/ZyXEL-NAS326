@@ -1,3 +1,18 @@
+# I no longer recommend this guide
+This guide is now several years old, and no fuirther progress has been made for a while. The issue with the stock firmwares for these devices is the manufacturer will eventually give up on the firmware updates, and then the kernel and services running on them will become outdated and potentially vulnerable.
+
+Jusdging by the fact OwnCloud installed officially on these boxes is already super old, this does not give confidence in future updates
+
+# Where do we go from here?
+I would like to see the NAS326 ported to OpenWRT, which a few other ZyXEL NASes are already. This may be something I start to work on in the future myself, and if I do, I will be sure to update this readme to point to it.
+
+The hardware of the NAS326 is well known and I believe well supported in the mainline kernel, and I think OpenWRT would be a good candidate for this box. This may seem like an odd choice, seeing as this NAS definitely isn't wireless, let alone a router, but OpenWRT is very capable of running other services and can serve things over Ethernet perfectly fine, and it is also well maintained with automated builds and bugfixes, as well as providing a vast `opkg` repo for package management.
+
+# Thank you
+Thank you for all the people who have starred and watched this repo! Keep watching, because I will keep you updated when I have more news!
+
+---
+
 # ZyXEL NAS326 Hacking and Modernisation
 **Disclaimer**: I am not responsible for any use or interaction with this guide. This guide is provided to be educational and additionally provide a useful end result which is a NAS326 by ZyXEL becoming more capable than ZyXEL currently supports it for.
 
