@@ -1,7 +1,7 @@
 # I no longer recommend this guide
-This guide is now several years old, and no fuirther progress has been made for a while. The issue with the stock firmwares for these devices is the manufacturer will eventually give up on the firmware updates, and then the kernel and services running on them will become outdated and potentially vulnerable.
+This guide is now several years old, and no further progress has been made for a while. The issue with the stock firmwares for these devices is the manufacturer will eventually give up on the firmware updates, and then the kernel and services running on them will become outdated and potentially vulnerable.
 
-Jusdging by the fact OwnCloud installed officially on these boxes is already super old, this does not give confidence in future updates
+Jusdging by the fact OwnCloud installed officially on these boxes is already super old, this does not give confidence in future updates.
 
 # Where do we go from here?
 I would like to see the NAS326 ported to OpenWRT, which a few other ZyXEL NASes are already. This may be something I start to work on in the future myself, and if I do, I will be sure to update this readme to point to it.
